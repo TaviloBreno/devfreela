@@ -1,4 +1,4 @@
-# DevFreela.Payments
+# DevFreela
 
 ## Visão Geral
 
